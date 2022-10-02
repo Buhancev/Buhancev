@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Buhancev
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Yandex/Google/Mail/JetBrains etc
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Yandex/Google/Mail/JetBrains/CFT etc
 - 📫 How to reach me maxim.buhancev@gmail.com
 
 <!---
