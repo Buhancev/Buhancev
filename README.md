@@ -1,2 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Maxim)](https://git.io/typing-svg)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<br/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+learning+Java](https://git.io/typing-svg)
