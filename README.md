@@ -1,2 +1,3 @@
 [![codewars](https://www.codewars.com/users/bbuhhaWillBeFine/badges/large)](https://www.codewars.com/users/bbuhhaWillBeFine)   
-![alt text] (https://sun4-15.userapi.com/impg/rqIC_bcdwBruFtfD6sgX2jOF-iWppnWOSR0QaQ/Dw6z4WuuEeA.jpg?size=421x146&quality=96&sign=855f9deb40d0bf2508a07907dd27a8fe&type=album)
+
+![Dw6z4WuuEeA](https://user-images.githubusercontent.com/92110193/202054250-ab259fe4-a4b8-4576-9d79-1a5e23a99a12.jpg)
